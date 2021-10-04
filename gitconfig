@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mathieuromano3@gmail.com
+	name = Mathieu Romano
